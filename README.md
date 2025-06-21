@@ -28,22 +28,17 @@ This Java console application allows users to convert temperatures between Celsi
    java TemperatureConverter
 
 # Sample Execution
+```yaml
 Enter temperature value:
 25
-
 Enter unit (C for Celsius, F for Fahrenheit, K for Kelvin):
 C
-
 Fahrenheit: 77.0°F
-
 Kelvin: 298.15K
-
+```
 ## Learning Objectives
 - Practice working with user input in Java
 - Implement basic mathematical operations and conversion formulas
 - Improve understanding of control structures (switch-case)
 - Gain experience with formatting and displaying output
 
-License
-
-This project is licensed under the MIT License.
